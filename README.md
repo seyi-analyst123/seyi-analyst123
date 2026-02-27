@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Oladunni Oluwaseyi
+#  Hi, I'm Oladunni Oluwaseyi
 
-## 📊 Data Analyst | Excel • Python • SQL • Power BI
+##  Data Analyst | Excel • Python • SQL • Power BI
 
 Welcome to my GitHub profile!  
 I am a results-driven Data Analyst skilled in transforming raw data into meaningful insights that support data-driven decision-making.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 📈 Passionate about data analytics and business intelligence  
-- 🔍 Strong analytical and problem-solving skills  
-- 📊 Experienced in building dashboards and automated reports  
-- 🧠 Continuously learning and improving my technical skills  
+-  Passionate about data analytics and business intelligence  
+-  Strong analytical and problem-solving skills  
+-  Experienced in building dashboards and automated reports  
+-  Continuously learning and improving my technical skills  
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 📊 Data Analysis & Visualization
+###  Data Analysis & Visualization
 - **Microsoft Excel**
   - Advanced formulas (XLOOKUP, INDEX-MATCH)
   - Pivot Tables
@@ -32,7 +32,7 @@ I am a results-driven Data Analyst skilled in transforming raw data into meaning
   - Interactive Dashboards
   - KPI Tracking
 
-### 🐍 Programming
+###  Programming
 - **Python**
   - Pandas
   - NumPy
@@ -40,7 +40,7 @@ I am a results-driven Data Analyst skilled in transforming raw data into meaning
   - Seaborn
   - Exploratory Data Analysis (EDA)
 
-### 🗄️ Database
+###  Database
 - **SQL**
   - SELECT Statements
   - INNER / LEFT / RIGHT Joins
@@ -50,26 +50,26 @@ I am a results-driven Data Analyst skilled in transforming raw data into meaning
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 📌 Sales Data Analysis
+###  Sales Data Analysis
 - Cleaned and analyzed raw sales data using Python (Pandas)
 - Performed exploratory data analysis
 - Built an interactive dashboard in Power BI to track KPIs
 
-### 📌 SQL Business Insights Project
+###  SQL Business Insights Project
 - Queried relational databases
 - Used joins and aggregations to extract insights
 - Generated business performance reports
 
-### 📌 Excel Financial Dashboard
+###  Excel Financial Dashboard
 - Created automated dashboards using Pivot Tables
 - Integrated Power Query for data transformation
 - Improved reporting efficiency
 
 ---
 
-## 📈 What I Do
+##  What I Do
 
 ✔ Data Cleaning & Preparation  
 ✔ Exploratory Data Analysis (EDA)  
@@ -80,12 +80,11 @@ I am a results-driven Data Analyst skilled in transforming raw data into meaning
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your.email@example.com
-- Portfolio: https://yourportfolio.com
-
+- LinkedIn: https://www.linkedin.com/in/oluwaseyi-oladunni-93871a2bb
+- Email: oluwaseyioladunni.803@gmail.com
+  
 ---
 
 ⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
