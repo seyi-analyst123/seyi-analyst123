@@ -1,16 +1,91 @@
-## Hi there 👋
+# 👋 Hi, I'm Oladunni Oluwaseyi
 
-<!--
-**seyi-analyst123/seyi-analyst123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | Excel • Python • SQL • Power BI
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I am a results-driven Data Analyst skilled in transforming raw data into meaningful insights that support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📈 Passionate about data analytics and business intelligence  
+- 🔍 Strong analytical and problem-solving skills  
+- 📊 Experienced in building dashboards and automated reports  
+- 🧠 Continuously learning and improving my technical skills  
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analysis & Visualization
+- **Microsoft Excel**
+  - Advanced formulas (XLOOKUP, INDEX-MATCH)
+  - Pivot Tables
+  - Power Query
+  - Dashboard Creation
+  - Data Inspection, Cleaning, & Automation
+
+- **Power BI**
+  - Data Modeling
+  - DAX Functions
+  - Interactive Dashboards
+  - KPI Tracking
+
+### 🐍 Programming
+- **Python**
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Exploratory Data Analysis (EDA)
+
+### 🗄️ Database
+- **SQL**
+  - SELECT Statements
+  - INNER / LEFT / RIGHT Joins
+  - GROUP BY & Aggregations
+  - Subqueries
+  - Data Filtering
+
+---
+
+## 📂 Projects
+
+### 📌 Sales Data Analysis
+- Cleaned and analyzed raw sales data using Python (Pandas)
+- Performed exploratory data analysis
+- Built an interactive dashboard in Power BI to track KPIs
+
+### 📌 SQL Business Insights Project
+- Queried relational databases
+- Used joins and aggregations to extract insights
+- Generated business performance reports
+
+### 📌 Excel Financial Dashboard
+- Created automated dashboards using Pivot Tables
+- Integrated Power Query for data transformation
+- Improved reporting efficiency
+
+---
+
+## 📈 What I Do
+
+✔ Data Cleaning & Preparation  
+✔ Exploratory Data Analysis (EDA)  
+✔ Dashboard Development  
+✔ Business Intelligence Reporting  
+✔ KPI Monitoring  
+✔ Data Visualization  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: your.email@example.com
+- Portfolio: https://yourportfolio.com
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
